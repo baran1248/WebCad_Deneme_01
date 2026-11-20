@@ -1,0 +1,6 @@
+{
+  "name": "WebCad_Deneme1",
+  "description": "Tarayıcı tabanlı açık kaynaklı 3D parametrik CAD, montaj ve yapısal sonlu elemanlar analizi (FEA) mühendislik platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
